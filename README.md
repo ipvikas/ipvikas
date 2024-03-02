@@ -7,7 +7,7 @@ For the last 8 years, I have been working on Cognitive services, Azure Open AI C
 - 🔭 I’m currently working on building GenAI ChatBot Projects. You can find a few of my Date Science projects at [[git-hub]](https://github.com/ipvikas/My-Projects_POC)
 - 🌱 I’m currently learning Generative AI, LLM, and ML model Deployment
 - 👯 I’m looking to collaborate on GenAI Chatbot creation
-- 📫 You can reach me through [[linkedin]](https://www.linkedin.com/in/vikaskumar-datascience/) or send mail on ipvikas@gmail.com 
+- 📫 You can reach me through [[linkedin]](https://www.linkedin.com/in/vikaskumar-datascience/) or [[send mail]] (ipvikas@gmail.com) 
 
 
 <!--
